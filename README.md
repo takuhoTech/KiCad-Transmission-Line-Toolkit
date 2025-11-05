@@ -1,5 +1,4 @@
-# takuhoTech-KiCad-Plugins
-takuhoTech's KiCad Plugins
+# KiCad-Transmission-Line-Toolkit
 
 KiCad 9.0で開発を行っています.
 
