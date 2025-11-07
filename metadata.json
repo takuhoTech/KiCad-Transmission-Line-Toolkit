@@ -1,9 +1,9 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "takuhoTech-KiCad-Plugins",
+    "name": "KiCad Transmission Line Toolkit",
     "description": "A suite of kicad pcbnew Tools",
     "description_full": "Square Track Generator, Via Fence Generator, Grid Origin Aligner",
-    "identifier": "com.github.takuhotech.takuhotech-kicad-plugins",
+    "identifier": "com.github.takuhotech.kicad-transmission-line-toolkit",
     "type": "plugin",
     "author": {
         "name": "takuhoTech",
@@ -13,8 +13,8 @@
     },
     "license": "MIT",
     "resources": {
-        "Github": "https://github.com/takuhoTech/takuhoTech-KiCad-Plugins",
-        "Readme": "https://github.com/takuhoTech/takuhoTech-KiCad-Plugins/blob/main/README.md"
+        "Github": "https://github.com/takuhoTech/KiCad-Transmission-Line-Toolkit",
+        "Readme": "https://github.com/takuhoTech/KiCad-Transmission-Line-Toolkit/blob/main/README.md"
     },
     "tags": [
         "pcbnew",
@@ -26,10 +26,10 @@
     ],
     "versions": [
         {
-            "version": "0.4.1",
+            "version": "0.5.0",
             "status": "development",
             "kicad_version": "9.0",
-            "download_url": "https://github.com/takuhoTech/takuhoTech-KiCad-Plugins",
+            "download_url": "https://github.com/takuhoTech/KiCad-Transmission-Line-Toolkit/releases/download/v0.5.0/KiCad-Transmission-Line-Toolkit-0.5.0.zip",
             "platforms": [
                 "windows"
             ]
