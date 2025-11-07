@@ -26,10 +26,10 @@
     ],
     "versions": [
         {
-            "version": "0.5.0",
+            "version": "0.4.2",
             "status": "development",
             "kicad_version": "9.0",
-            "download_url": "https://github.com/takuhoTech/KiCad-Transmission-Line-Toolkit/releases/download/v0.5.0/KiCad-Transmission-Line-Toolkit-0.5.0.zip",
+            "download_url": "https://github.com/takuhoTech/KiCad-Transmission-Line-Toolkit/releases/download/v0.4.2/KiCad-Transmission-Line-Toolkit-0.4.2.zip",
             "platforms": [
                 "windows"
             ]
